@@ -1,3 +1,7 @@
+Perfmission issue 
+https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue
+![image](https://github.com/rajneeshprakashhajela/LinuxCommand/assets/43515480/8d40709d-d321-4b2a-9333-3f1803e75f1d)
+
 ![image](https://github.com/rajneeshprakashhajela/LinuxCommand/assets/43515480/e8cea79b-bb7c-480e-8173-5738aa2ca5e9)
 ![image](https://github.com/rajneeshprakashhajela/LinuxCommand/assets/43515480/f9e74395-1eec-433c-9a44-fe2235a559d2)
 https://hub.docker.com/_/httpd
